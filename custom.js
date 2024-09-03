@@ -1,2 +1,2 @@
 var x=5;
-vay y=10;
+var y=10;
