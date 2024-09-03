@@ -6,3 +6,4 @@ function sayWelcome(username){
     return `welcome ${username}`;
 }
 document.write('hi');
+var email="ali@gmail.com";
