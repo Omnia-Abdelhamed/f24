@@ -5,3 +5,4 @@ function sum (x,y){
 function sayWelcome(username){
     return `welcome ${username}`;
 }
+document.write('hi');
