@@ -7,3 +7,4 @@ function sayWelcome(username){
 }
 document.write('hi');
 var email="ali@gmail.com";
+var age=20;
